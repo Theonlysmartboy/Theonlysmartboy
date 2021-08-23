@@ -1,4 +1,4 @@
-### Hi there, I am Joseph Odhiambo, commonly known as The Only Smart Boy for those who love long texts and TOSBY for those who prefer short texts. I do web desktop & mobile dev 👋
+### Hi there, I am Joseph Odhiambo, commonly known as The Only Smart Boy for you who loves long texts and TOSBY for you who prefers short texts. I do web, desktop & mobile dev 👋
 
 
 - 🔭 I’m currently working as a software developer
