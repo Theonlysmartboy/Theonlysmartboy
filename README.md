@@ -6,6 +6,7 @@
 - 📫 How to reach me: o2jsmartboy@gmail.com
 - ⚡ Subscribe to my youtube channel: [Coding with tosby](https://www.youtube.com/channel/UCFgi-pD18iRLBzYB--dadRg)
 - 😄 Fun fact: Very few people will read this
+
 [![wakatime](https://wakatime.com/badge/user/90d74486-ec81-4c11-9379-397421327e7e.svg)](https://wakatime.com/@90d74486-ec81-4c11-9379-397421327e7e)
 
 ![Theonlysmartboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theonlysmartboy&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)
