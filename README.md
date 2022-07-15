@@ -13,5 +13,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Theonlysmartboy&label=Profile%20views&color=0e75b6&style=flat)
 [![wakatime](https://wakatime.com/badge/user/90d74486-ec81-4c11-9379-397421327e7e.svg)](https://wakatime.com/@90d74486-ec81-4c11-9379-397421327e7e)
-[![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/WakaTime)
+[![twitter](https://img.shields.io/twitter/follow/TheonlySmartBoy?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/TheonlySmartBoy)
 [![github](https://img.shields.io/github/followers/Theonlysmartboy?logo=github&style=plastic)](https://github.com/Theonlysmartboy?tab=followers)
