@@ -15,3 +15,4 @@
 [![wakatime](https://wakatime.com/badge/user/90d74486-ec81-4c11-9379-397421327e7e.svg)](https://wakatime.com/@90d74486-ec81-4c11-9379-397421327e7e)
 [![twitter](https://img.shields.io/twitter/follow/TheonlySmartBoy?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/TheonlySmartBoy)
 [![github](https://img.shields.io/github/followers/Theonlysmartboy?logo=github&style=plastic)](https://github.com/Theonlysmartboy?tab=followers)
+[![codersrank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=theonlysmartboy)](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=theonlysmartboy)
