@@ -7,7 +7,7 @@
 - ⚡ Subscribe to my youtube channel: [Coding with tosby](https://www.youtube.com/channel/UCFgi-pD18iRLBzYB--dadRg)
 - 😄 Fun fact: Very few people will read this
 
-![Theonlysmartboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theonlysmartboy&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Theonlysmartboy&layout=compact&langs_count=16&theme=dracula"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theonlysmartboy&layout=compact&theme=dracula&count_private=true&hide_border=true&langs_count=6&include_all_commits=true&hide=blade)](https://github.com/anuraghazra/github-readme-stats)
 
