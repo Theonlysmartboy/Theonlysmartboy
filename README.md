@@ -34,6 +34,7 @@
 <img alt="Azure" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />&nbsp;
 
 ## **Frameworks**
+<img alt="Laravel" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"/>&nbsp;
 <img alt="ReactiveUI" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactiveui/reactiveui.png"/>&nbsp;
 <img alt="Prism" width="60" src="https://avatars1.githubusercontent.com/u/10503161?s=200&v=4"/>&nbsp;
 
