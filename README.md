@@ -9,7 +9,7 @@
 - 😄 Fun fact: Very few people will read this but I love to code when discovering new challenges and playing video games
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Theonlysmartboy)](https://git.io/streak-stats)
-<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Theonlysmartboy&layout=compact&langs_count=16&theme=dracula"/>
+<img align="right" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Theonlysmartboy&layout=compact&langs_count=16&theme=dracula"/>
 <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Theonlysmartboy&layout=compact&langs_count=16&theme=dracula"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Theonlysmartboy&label=Profile%20views&color=0e75b6&style=flat)
