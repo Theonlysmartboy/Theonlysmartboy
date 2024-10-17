@@ -10,7 +10,6 @@
 ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Theonlysmartboy)](https://git.io/streak-stats)
 <img align="right" alt="Theonlysmartboy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Theonlysmartboy&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
-<img align="right" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Theonlysmartboy&layout=compact&langs_count=16&theme=dracula"/>
 
 ## **Languages and Tech Stack** 👨‍💻️
 <img alt="Java" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>&nbsp;
@@ -22,6 +21,7 @@
 <img alt=".NET" width="60" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />&nbsp;
 <img alt="Xamarin" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png" />&nbsp;
 <img alt="ASPNET" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />&nbsp;
+<img alt="VBNET" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vbnet/vbnet.png" />&nbsp;
 <img alt="SQL" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />&nbsp;
 <img alt="MySQL" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />&nbsp;
 
