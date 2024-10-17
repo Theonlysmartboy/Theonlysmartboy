@@ -27,7 +27,7 @@
 
 ## **Tools** 💻️
 <img alt="Visual Studio 2022" width="60" src="https://www.kindpng.com/picc/m/13-130970_visual-studio-2022-icon-hd-png-download.png" />&nbsp;
-<img alt="Android Studio" width="60" src="https://www.kindpng.com/picc/m/13-130970_android-studio-icon-hd-png-download.png" />&nbsp;
+<img alt="Android Studio" width="60" src="https://3.bp.blogspot.com/-RH0O7wYQXUc/VozSayGFPlI/AAAAAAAALjc/nhg8bQ_PQR8/s1600/Android_Studio_icon.svg.png" />&nbsp;
 <img alt="Visual Studio Code" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;
 <img alt="Git" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />&nbsp;
 <img alt="GitHub" width="60" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;
