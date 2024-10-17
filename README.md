@@ -13,6 +13,7 @@
 
 ## **Languages and Tech Stack** 👨‍💻️
 <img alt="Java" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>&nbsp;
+<img alt="Kotlin" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/java.png"/>&nbsp;
 <img alt="PHP" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/>&nbsp;
 <img alt="JavaScript" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>&nbsp;
 <img alt="C#" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>&nbsp;
@@ -21,12 +22,12 @@
 <img alt=".NET" width="60" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />&nbsp;
 <img alt="Xamarin" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png" />&nbsp;
 <img alt="ASPNET" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />&nbsp;
-<img alt="VBNET" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vbnet/vbnet.png" />&nbsp;
 <img alt="SQL" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />&nbsp;
 <img alt="MySQL" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />&nbsp;
 
 ## **Tools** 💻️
-<img alt="Visual Studio 2019" width="60" src="https://www.kindpng.com/picc/m/13-130970_visual-studio-2019-icon-hd-png-download.png" />&nbsp;
+<img alt="Visual Studio 2022" width="60" src="https://www.kindpng.com/picc/m/13-130970_visual-studio-2022-icon-hd-png-download.png" />&nbsp;
+<img alt="Android Studio" width="60" src="https://www.kindpng.com/picc/m/13-130970_android-studio-icon-hd-png-download.png" />&nbsp;
 <img alt="Visual Studio Code" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;
 <img alt="Git" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />&nbsp;
 <img alt="GitHub" width="60" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;
