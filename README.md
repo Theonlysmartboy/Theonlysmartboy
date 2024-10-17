@@ -13,7 +13,7 @@
 
 ## **Languages and Tech Stack** 👨‍💻️
 <img alt="Java" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>&nbsp;
-<img alt="Kotlin" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/java.png"/>&nbsp;
+<img alt="Kotlin" width="60" src="https://th.bing.com/th/id/OIP.Ow4SxDlUw-GbwAzROkOrtAHaE8?rs=1&pid=ImgDetMain"/>&nbsp;
 <img alt="PHP" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/>&nbsp;
 <img alt="JavaScript" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>&nbsp;
 <img alt="C#" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>&nbsp;
