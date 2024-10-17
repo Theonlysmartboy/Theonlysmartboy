@@ -10,6 +10,34 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Theonlysmartboy)](https://git.io/streak-stats)
 <img align="right" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Theonlysmartboy&layout=compact&langs_count=16&theme=dracula"/>
+
+## **Languages and Tech Stack** 👨‍💻️
+<img alt="Java" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>&nbsp;
+<img alt="PHP" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/>&nbsp;
+<img alt="JavaScript" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>&nbsp;
+<img alt="C#" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>&nbsp;
+<img alt="HTML5" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp;
+<img alt="CSS3" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp;
+<img alt=".NET" width="60" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />&nbsp;
+<img alt="Xamarin" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png" />&nbsp;
+<img alt="ASPNET" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />&nbsp;
+<img alt="SQL" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />&nbsp;
+<img alt="MySQL" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />&nbsp;
+
+## **Tools** 💻️
+<img alt="Visual Studio 2019" width="60" src="https://www.kindpng.com/picc/m/13-130970_visual-studio-2019-icon-hd-png-download.png" />&nbsp;
+<img alt="Visual Studio Code" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;
+<img alt="Git" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />&nbsp;
+<img alt="GitHub" width="60" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;
+<img alt="Azure" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />&nbsp;
+
+## **Frameworks**
+<img alt="ReactiveUI" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactiveui/reactiveui.png"/>&nbsp;
+<img alt="Prism" width="60" src="https://avatars1.githubusercontent.com/u/10503161?s=200&v=4"/>&nbsp;
+
+<br />
+<br />
+
 <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Theonlysmartboy&layout=compact&langs_count=16&theme=dracula"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Theonlysmartboy&label=Profile%20views&color=0e75b6&style=flat)
