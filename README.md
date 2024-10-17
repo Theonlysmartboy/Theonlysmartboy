@@ -43,9 +43,26 @@
 <br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theonlysmartboy&layout=compact&langs_count=16&theme=dracula"/>
+<br />
+<br />
+
+<!--START_SECTION:waka-->
+
+```txt
+Java     3 hrs 2 mins    ███████████▒░░░░░░░░░░░░░   45.76 %
+C#       1 hr 42 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.76 %
+Binary   49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+XML      48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+CSHTML   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+```
+
+<!--END_SECTION:waka-->
+
+</br>
+</br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Theonlysmartboy" alt="Theonlysmartboy" /> </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Theonlysmartboy&label=Profile%20views&color=0e75b6&style=flat)
-[![wakatime](https://wakatime.com/badge/user/90d74486-ec81-4c11-9379-397421327e7e.svg)](https://wakatime.com/@90d74486-ec81-4c11-9379-397421327e7e)
 [![twitter](https://img.shields.io/twitter/follow/TheonlySmartBoy?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/TheonlySmartBoy)
 [![github](https://img.shields.io/github/followers/Theonlysmartboy?logo=github&style=plastic)](https://github.com/Theonlysmartboy?tab=followers)
-[![codersrank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=theonlysmartboy)](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=theonlysmartboy)
