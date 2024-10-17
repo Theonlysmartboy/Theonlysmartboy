@@ -36,6 +36,7 @@
 
 ## **Frameworks**
 <img alt="Laravel" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"/>&nbsp;
+<img alt="Code Igniter" width="60" src="https://th.bing.com/th/id/OIP.RyzIFi-x57WhYZnh527L-wHaHa?rs=1&pid=ImgDetMain"/>&nbsp;
 <img alt="Bootstrap" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>&nbsp;
 <img alt="jQuery" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"/>&nbsp;
 <img alt="React js" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>&nbsp;
