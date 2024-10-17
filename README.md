@@ -7,8 +7,9 @@
 - 📫 How to reach me: o2jsmartboy@gmail.com
 - ⚡ Subscribe to my youtube channel: [Coding with tosby](https://www.youtube.com/channel/UCFgi-pD18iRLBzYB--dadRg)
 - 😄 Fun fact: Very few people will read this but I love to code when discovering new challenges and playing video games
-
+---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Theonlysmartboy)](https://git.io/streak-stats)
+<img align="right" alt="Theonlysmartboy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Theonlysmartboy&show_icons=true&hide_border=true&count_private=true&theme=dark" />
 <img align="right" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Theonlysmartboy&layout=compact&langs_count=16&theme=dracula"/>
 
 ## **Languages and Tech Stack** 👨‍💻️
