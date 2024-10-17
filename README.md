@@ -42,7 +42,7 @@
 <br />
 <br />
 
-<img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theonlysmartboy&layout=compact&langs_count=16&theme=dracula"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theonlysmartboy&layout=compact&langs_count=16&theme=dracula"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Theonlysmartboy&label=Profile%20views&color=0e75b6&style=flat)
 [![wakatime](https://wakatime.com/badge/user/90d74486-ec81-4c11-9379-397421327e7e.svg)](https://wakatime.com/@90d74486-ec81-4c11-9379-397421327e7e)
