@@ -35,13 +35,14 @@
 
 ## **Frameworks**
 <img alt="Laravel" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"/>&nbsp;
+<img alt=".NET" width="60" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />&nbsp;
 <img alt="ReactiveUI" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactiveui/reactiveui.png"/>&nbsp;
 <img alt="Prism" width="60" src="https://avatars1.githubusercontent.com/u/10503161?s=200&v=4"/>&nbsp;
 
 <br />
 <br />
 
-<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Theonlysmartboy&layout=compact&langs_count=16&theme=dracula"/>
+<img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theonlysmartboy&layout=compact&langs_count=16&theme=dracula"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Theonlysmartboy&label=Profile%20views&color=0e75b6&style=flat)
 [![wakatime](https://wakatime.com/badge/user/90d74486-ec81-4c11-9379-397421327e7e.svg)](https://wakatime.com/@90d74486-ec81-4c11-9379-397421327e7e)
