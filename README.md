@@ -36,8 +36,10 @@
 ## **Frameworks**
 <img alt="Laravel" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"/>&nbsp;
 <img alt="Bootstrap" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>&nbsp;
+<img alt="jQuery" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"/>&nbsp;
 <img alt="React js" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>&nbsp;
 <img alt="Angular js" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>&nbsp;
+<img alt="Node js" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png"/>&nbsp;
 <img alt=".NET" width="60" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />&nbsp;
 <img alt="ReactiveUI" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactiveui/reactiveui.png"/>&nbsp;
 <img alt="Prism" width="60" src="https://avatars1.githubusercontent.com/u/10503161?s=200&v=4"/>&nbsp;
