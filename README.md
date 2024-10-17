@@ -1,4 +1,4 @@
-### Hi there, I am Joseph, commonly known as The Only Smart Boy for you who loves long texts and TOSBY for you who prefers short texts. [![wakatime](https://wakatime.com/badge/user/90d74486-ec81-4c11-9379-397421327e7e.svg)](https://wakatime.com/@90d74486-ec81-4c11-9379-397421327e7e) 👋
+### Hello, I am Joseph, commonly known as The Only Smart Boy for you who love long texts and TOSBY for you who prefer short texts. [![wakatime](https://wakatime.com/badge/user/90d74486-ec81-4c11-9379-397421327e7e.svg)](https://wakatime.com/@90d74486-ec81-4c11-9379-397421327e7e) 👋
 
 ## I am a full stack web, desktop & mobile developer
 - 🔭 I’m currently working as a full stack software developer
