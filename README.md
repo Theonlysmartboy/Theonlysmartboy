@@ -1,6 +1,6 @@
 ### Hello, I am Joseph, commonly known as The Only Smart Boy for you who love long texts and TOSBY for you who prefer short texts. [![wakatime](https://wakatime.com/badge/user/90d74486-ec81-4c11-9379-397421327e7e.svg)](https://wakatime.com/@90d74486-ec81-4c11-9379-397421327e7e) 👋
 
-## I am a full stack web, desktop & mobile developer
+## A young tech enthusiast, a thinker and a dreamer- always believing that it can be done. I've over 8 years of experience in full stack mobile apps, desktop apps, web apps and website development
 - 🔭 I’m currently working as a full stack software developer
 - 👯 I’m looking to collaborate on laravel, android and java desktop projects
 -  🥅 2024 Goals: Contribute more to Open Source projects
