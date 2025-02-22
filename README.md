@@ -9,7 +9,7 @@
 - 😄 Fun fact: Very few people will read this but I love to code when discovering new challenges and playing video games
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=Theonlysmartboy&theme=darcula&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats) 
-<img align="right" width="330" alt="Theonlysmartboy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Theonlysmartboy&show_icons=true&hide_border=false&count_private=true&theme=dracula" />
+<img align="right" width="330" alt="Theonlysmartboy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Theonlysmartboy&show_icons=true&hide_border=true&count_private=true&theme=darcula" />
 
 ## **Languages and Tech Stack** 👨‍💻️
 <img alt="Java" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>&nbsp;
