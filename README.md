@@ -49,7 +49,7 @@
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theonlysmartboy&layout=compact&langs_count=all&theme=darcula&hide_border=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theonlysmartboy&layout=compact&langs_count=16&theme=darcula&hide_border=true"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Theonlysmartboy&label=Profile%20views&color=0e75b6&style=flat)
 [![twitter](https://img.shields.io/twitter/follow/TheonlySmartBoy?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/TheonlySmartBoy)
