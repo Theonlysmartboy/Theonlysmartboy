@@ -1,6 +1,29 @@
 ### Hello, I am Joseph, commonly known as The Only Smart Boy for you who love long texts and TOSBY for you who prefer short texts. [![wakatime](https://wakatime.com/badge/user/90d74486-ec81-4c11-9379-397421327e7e.svg)](https://wakatime.com/@90d74486-ec81-4c11-9379-397421327e7e) 👋
 
-## I am a young tech enthusiast, a thinker and a dreamer- always believing that it can be done. I've over 8 years of experience in full stack mobile apps, desktop apps, web apps and website development
+## A Senior Java & Laravel Developer | Backend Specialist | Clean Code Advocate
+
+With 5+ years of hands-on experience in building scalable and high-performance applications, I specialize in Java (Spring Boot) and Laravel (PHP) to deliver robust backend solutions. Passionate about clean architecture, RESTful APIs, and optimizing systems for speed and reliability.
+
+🔹 What I Bring to the Table:
+✔ Backend Development – Expertise in Java (Spring, Hibernate) & Laravel (Eloquent, Livewire).
+✔ API Design – Crafting secure, scalable REST & GraphQL APIs.
+✔ Database Mastery – SQL (MySQL, PostgreSQL) & NoSQL (MongoDB, Redis).
+✔ DevOps & Deployment – Docker, AWS, CI/CD pipelines.
+✔ Problem Solver – Debugging complex systems and improving legacy code.
+
+🔹 Why Work With Me?
+I bridge the gap between business needs and technical execution, ensuring solutions are not just functional but also maintainable and future-proof. Whether it’s a startup MVP or an enterprise-grade system, I thrive on turning challenges into seamless digital experiences.
+
+💡 Beyond Code:
+
+Sharing insights on LinkedIn & Dev.to about backend best practices.
+
+Open-source contributor & tech mentor.
+
+Coffee enthusiast ☕.
+
+📫 Let’s Connect!
+Open to collaborations, freelance projects, and discussions about Java, Laravel, or tech in general.
 - 🔭 I’m currently working as a full stack software developer
 - 👯 I’m looking to collaborate on laravel, android and java desktop projects
 -  🥅 2024 Goals: Contribute more to Open Source projects
