@@ -4,14 +4,14 @@
 
 With 5+ years of hands-on experience in building scalable and high-performance applications, I specialize in Java (Spring Boot) and Laravel (PHP) to deliver robust backend solutions. Passionate about clean architecture, RESTful APIs, and optimizing systems for speed and reliability.
 
-##🔹 What I Bring to the Table:
+## 🔹 What I Bring to the Table:
 ✔ Backend Development – Expertise in Java (Spring, Hibernate) & Laravel (Eloquent, Livewire).
 ✔ API Design – Crafting secure, scalable REST & GraphQL APIs.
 ✔ Database Mastery – SQL (MySQL, PostgreSQL) & NoSQL (MongoDB, Redis).
 ✔ DevOps & Deployment – Docker, AWS, CI/CD pipelines.
 ✔ Problem Solver – Debugging complex systems and improving legacy code.
 
-##🔹 Why Work With Me?
+## 🔹 Why Work With Me?
 I bridge the gap between business needs and technical execution, ensuring solutions are not just functional but also maintainable and future-proof. Whether it’s a startup MVP or an enterprise-grade system, I thrive on turning challenges into seamless digital experiences.
 
 ##💡 Beyond Code:
