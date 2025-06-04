@@ -1,6 +1,6 @@
 ### Hello, I am Joseph, commonly known as The Only Smart Boy for you who love long texts and TOSBY for you who prefer short texts. [![wakatime](https://wakatime.com/badge/user/90d74486-ec81-4c11-9379-397421327e7e.svg)](https://wakatime.com/@90d74486-ec81-4c11-9379-397421327e7e) 👋
 
-## A Senior Java & Laravel Developer | Backend Specialist | Clean Code Advocate
+## A Senior Java & Laravel Developer | Full Stack Specialist | Clean Code Advocate
 
 With 5+ years of hands-on experience in building scalable and high-performance applications, I specialize in Java (Spring Boot) and Laravel (PHP) to deliver robust backend solutions. Passionate about clean architecture, RESTful APIs, and optimizing systems for speed and reliability.
 
