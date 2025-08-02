@@ -8,10 +8,9 @@ Commonly known as **The Only Smart Boy** for those who love long names — or si
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Theonlysmartboy&theme=flat&title=Followers,Stars,Commit,Repositories,PullRequest,Issues,Organizations" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Theonlysmartboy&theme=flat&title=Followers,Stars,Commit,Repositories,PullRequest,Issues,Organizations,MultiLanguage,Experience" alt="GitHub Profile Trophy" />
   </a>
 </p>
-
 
 With 5+ years of hands-on experience building scalable, high-performance applications, I specialize in **Java (Spring Boot)** and **Laravel (PHP)** for delivering robust backend solutions. I'm passionate about **clean architecture**, **RESTful APIs**, and optimizing systems for speed and reliability.
 
