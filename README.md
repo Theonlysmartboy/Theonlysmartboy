@@ -68,9 +68,6 @@ I am open to collaborations, freelance projects, and discussions about Java, Lar
 <img alt="Prism" width="60" src="https://avatars1.githubusercontent.com/u/10503161?s=200&v=4"/>&nbsp;
 
 <br />
-<br />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theonlysmartboy&layout=compact&langs_count=16&theme=darcula&hide_border=true"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Theonlysmartboy&label=Profile%20views&color=0e75b6&style=flat)
 [![twitter](https://img.shields.io/twitter/follow/TheonlySmartBoy?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/TheonlySmartBoy)
