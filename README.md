@@ -31,11 +31,11 @@ I am open to collaborations, freelance projects, and discussions about Java, Lar
 - ⚡ Subscribe to my youtube channel: [Coding with tosby](https://www.youtube.com/channel/UCFgi-pD18iRLBzYB--dadRg)
 - 😄 Fun fact: Very few people will read this but I love to code when discovering new challenges and playing video games
 ---
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Theonlysmartboy&theme=darcula&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats) 
-<img align="right" width="330" height="195" alt="Theonlysmartboy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Theonlysmartboy&show_icons=true&hide_border=true&count_private=true&theme=darcula" />
+
+
 <h3> 🙋‍♀️ <b>My Github Stats</b>: </h3>
 
-
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Theonlysmartboy&theme=darcula&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats) 
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Theonlysmartboy&theme=darcula&hide_border=true&exclude_days=Sun)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Theonlysmartboy&theme=darcula&hide_border=true&exclude_days=Sun) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Theonlysmartboy&theme=darcula&hide_border=true&exclude_days=Sun)
