@@ -1,4 +1,4 @@
-# 👋 Hello, I am Joseph  
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="50"/> Hello, I am Odhiambo Joseph  
 Commonly known as **The Only Smart Boy** for those who love long names — or simply **TOSBY** for short.  
 [![WakaTime Badge](https://wakatime.com/badge/user/90d74486-ec81-4c11-9379-397421327e7e.svg)](https://wakatime.com/@90d74486-ec81-4c11-9379-397421327e7e)
 
