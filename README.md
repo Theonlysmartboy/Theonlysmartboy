@@ -55,11 +55,11 @@ I am open to **collaborations, freelance projects** and **discussions** about *J
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theonlysmartboy&theme=dracula&hide_border=true" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Theonlysmartboy&theme=darcula" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Theonlysmartboy&theme=darcula" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Theonlysmartboy&theme=darcula" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Theonlysmartboy&theme=darcula" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Theonlysmartboy&theme=darcula&utcOffset=+3" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Theonlysmartboy&theme=dracula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Theonlysmartboy&theme=dracula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Theonlysmartboy&theme=dracula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Theonlysmartboy&theme=dracula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Theonlysmartboy&theme=dracula&utcOffset=+3" />
 </p>
 
 ---
