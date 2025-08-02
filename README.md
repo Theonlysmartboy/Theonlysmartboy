@@ -43,9 +43,7 @@ I am open to collaborations, freelance projects, and discussions about Java, Lar
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Theonlysmartboy&theme=darcula&hide_border=true&exclude_days=Sun&utcOffset=+3)
 
  <h3><b>My Coding Activity</b></h3>
- <p>
-    <figure><embed src="https://wakatime.com/share/@Tosby/09f15771-2cbf-4dd2-b5e1-6002f47e4d33.svg"></embed></figure>
- </p>
+ <figure><embed src="https://wakatime.com/share/@Tosby/b8feaa43-5f37-4d59-9d13-ed9ec401a8fe.svg"></embed></figure>
 ## **Languages and Tech Stack** 👨‍💻️
 <img alt="Java" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>&nbsp;
 <img alt="Kotlin" width="60" src="https://th.bing.com/th/id/OIP.Ow4SxDlUw-GbwAzROkOrtAHaE8?rs=1&pid=ImgDetMain"/>&nbsp;
