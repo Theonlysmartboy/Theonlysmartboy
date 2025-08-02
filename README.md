@@ -43,9 +43,13 @@ I am open to collaborations, freelance projects, and discussions about Java, Lar
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Theonlysmartboy&theme=darcula&hide_border=true&exclude_days=Sun&utcOffset=+3)
 
  <h3><b>My Coding Activity</b></h3>
- <!--START_SECTION:waka-->
+ ## 📊 My WakaTime Stats
 
-<!--END_SECTION:waka-->
+### ⏱ Coding Activity (Last Year)
+![My Coding Activity]([https://wakatime.com/share/@Tosby/8a23589e-c726-49fe-ae00-5c569bb98ff2.svg](https://wakatime.com/share/@Tosby/8a23589e-c726-49fe-ae00-5c569bb98ff2.svg))
+
+### 💻 Languages (Last 7 Days)
+![Languages]([[https://wakatime.com/share/@your-id/languages-hash.svg](https://wakatime.com/share/@Tosby/879410b9-6d8a-4cb1-b1a2-307110533d31.svg)](https://wakatime.com/share/@Tosby/62c7c06c-f49c-42c0-b3dc-8498efa044c9.svg))
 
 ## **Tools** 💻️
 <img alt="Visual Studio 2022" width="60" src="https://www.kindpng.com/picc/m/13-130970_visual-studio-2022-icon-hd-png-download.png" />&nbsp;
