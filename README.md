@@ -18,11 +18,11 @@ With 5+ years of hands-on experience building scalable, high-performance applica
 
 ## 🔧 What I Bring to the Table
 
-- ✅ **Backend Development:** Java (Spring, Hibernate) & Laravel (Eloquent, Livewire)  
-- ✅ **API Design:** Secure, scalable REST & GraphQL APIs  
-- ✅ **Database Mastery:** MySQL, PostgreSQL, MongoDB, Redis  
-- ✅ **DevOps & Deployment:** Docker, AWS, CI/CD pipelines  
-- ✅ **Problem Solver:** Debugging legacy systems and optimizing performance
+- ✅ **Backend Development:** Expertise in Java (Spring, Hibernate) & Laravel (Eloquent, Livewire).  
+- ✅ **API Design:** Crafting Secure, scalable REST & GraphQL APIs.  
+- ✅ **Database Mastery:** SQL (MySQL, PostgreSQL) & NoSQL (MongoDB, Redis).  
+- ✅ **DevOps & Deployment:** Docker, AWS, CI/CD pipelines.  
+- ✅ **Problem Solver:** Debugging complex systems, improving legacy code and optimizing performance
 
 ---
 
@@ -41,9 +41,10 @@ I bridge the gap between **business needs** and **technical execution**, craftin
 ---
 
 ## 🤝 Let’s Connect
+I am open to **collaborations, freelance projects** and **discussions** about *Java, Laravel, Android Javacsript* projects, or *tech in general*.
 
 - 🔭 Currently working as a **Full Stack Software Developer**
-- 🥅 **2024 Goal:** Contribute more to Open Source projects
+- 🥅 **Current Goals:** Contribute more to Open Source projects
 - 📫 Reach me via: `odhiambojoseph482@gmail.com`
 - 🎥 Subscribe: [Coding with Tosby YouTube Channel](https://www.youtube.com/channel/UCFgi-pD18iRLBzYB--dadRg)
 - 😄 **Fun Fact:** I code best when solving new challenges & playing video games 🎮
