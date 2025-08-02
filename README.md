@@ -33,7 +33,19 @@ I am open to collaborations, freelance projects, and discussions about Java, Lar
 ---
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Theonlysmartboy&theme=darcula&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats) 
 <img align="right" width="330" height="195" alt="Theonlysmartboy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Theonlysmartboy&show_icons=true&hide_border=true&count_private=true&theme=darcula" />
+<h3> 🙋‍♀️ <b>My Github Stats</b>: </h3>
 
+
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Theonlysmartboy&theme=darcula&hide_border=true&exclude_days=Sun)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Theonlysmartboy&theme=darcula&hide_border=true&exclude_days=Sun) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Theonlysmartboy&theme=darcula&hide_border=true&exclude_days=Sun)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Theonlysmartboy&theme=darcula&hide_border=true&exclude_days=Sun)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Theonlysmartboy&theme=darcula&hide_border=true&exclude_days=Sun&utcOffset=+3)
+
+ <h3><b>My Coding Activity</b></h3>
+ <p>
+    <figure><embed src="https://wakatime.com/share/@Tosby/09f15771-2cbf-4dd2-b5e1-6002f47e4d33.svg"></embed></figure>
+ </p>
 ## **Languages and Tech Stack** 👨‍💻️
 <img alt="Java" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>&nbsp;
 <img alt="Kotlin" width="60" src="https://th.bing.com/th/id/OIP.Ow4SxDlUw-GbwAzROkOrtAHaE8?rs=1&pid=ImgDetMain"/>&nbsp;
