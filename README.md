@@ -54,7 +54,7 @@ I am open to **collaborations, freelance projects** and **discussions** about *J
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theonlysmartboy&theme=darcula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theonlysmartboy&theme=dracula&hide_border=true" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Theonlysmartboy&theme=darcula" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Theonlysmartboy&theme=darcula" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Theonlysmartboy&theme=darcula" />
