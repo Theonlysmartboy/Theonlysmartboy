@@ -54,13 +54,12 @@ I am open to **collaborations, freelance projects** and **discussions** about *J
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theonlysmartboy&theme=dracula&hide_border=true&exclude_days=Sun" />
-  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Theonlysmartboy&theme=dracula&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats) 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Theonlysmartboy&theme=dracula" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Theonlysmartboy&theme=dracula" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Theonlysmartboy&theme=dracula" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Theonlysmartboy&theme=dracula" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Theonlysmartboy&theme=dracula&utcOffset=+3" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theonlysmartboy&theme=dracula&hide_border=true&exclude_days=Sun" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Theonlysmartboy&theme=dracula&hide_border=true&exclude_days=Sun" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Theonlysmartboy&theme=dracula&hide_border=true&exclude_days=Sun" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Theonlysmartboy&theme=dracula&hide_border=true&exclude_days=Sun" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Theonlysmartboy&theme=dracula&hide_border=true&exclude_days=Sun" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Theonlysmartboy&theme=dracula&utcOffset=+3&hide_border=true&exclude_days=Sun" />
 </p>
 
 ---
