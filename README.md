@@ -12,7 +12,7 @@ Commonly known as **The Only Smart Boy** for those who love long names — or si
   </a>
 </p>
 
-With 5+ years of hands-on experience building scalable, high-performance applications, I specialize in **Java (Spring Boot)** and **Laravel (PHP)** for delivering robust backend solutions. I'm passionate about **clean architecture**, **RESTful APIs**, and optimizing systems for speed and reliability.
+With 10+ years of hands-on experience building scalable, high-performance applications, I specialize in **Java (Spring Boot)** and **Laravel (PHP)** for delivering robust backend solutions. I'm passionate about **clean architecture**, **RESTful APIs**, and optimizing systems for speed and reliability.
 
 ---
 
