@@ -77,12 +77,12 @@ I am open to **collaborations, freelance projects** and **discussions** about *J
 ## 🛠️ Tools I Use
 
 <p>
-  <img alt="Visual Studio 2022" width="40" src="https://www.kindpng.com/picc/m/13-130970_visual-studio-2022-icon-hd-png-download.png" />
-  <img alt="Android Studio" width="40" src="https://3.bp.blogspot.com/-RH0O7wYQXUc/VozSayGFPlI/AAAAAAAALjc/nhg8bQ_PQR8/s1600/Android_Studio_icon.svg.png" />
-  <img alt="VS Code" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
-  <img alt="Git" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-  <img alt="GitHub" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
-  <img alt="Azure" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" />
+  <img alt="Visual Studio 2022" width="20" src="https://www.kindpng.com/picc/m/13-130970_visual-studio-2022-icon-hd-png-download.png" />
+  <img alt="Android Studio" width="20" src="https://3.bp.blogspot.com/-RH0O7wYQXUc/VozSayGFPlI/AAAAAAAALjc/nhg8bQ_PQR8/s1600/Android_Studio_icon.svg.png" />
+  <img alt="VS Code" width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
+  <img alt="Git" width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+  <img alt="GitHub" width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+  <img alt="Azure" width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" />
 </p>
 
 ---
@@ -90,16 +90,28 @@ I am open to **collaborations, freelance projects** and **discussions** about *J
 ## 🧰 Frameworks & Libraries
 
 <p>
-  <img alt="Laravel" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" />
-  <img alt="CodeIgniter" width="40" src="https://th.bing.com/th/id/OIP.RyzIFi-x57WhYZnh527L-wHaHa?rs=1&pid=ImgDetMain" />
-  <img alt="Bootstrap" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" />
-  <img alt="jQuery" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" />
-  <img alt="React" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-  <img alt="Angular" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" />
-  <img alt="Node.js" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
-  <img alt=".NET" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" />
-  <img alt="ReactiveUI" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/reactiveui/reactiveui.png" />
-  <img alt="Prism" width="40" src="https://avatars1.githubusercontent.com/u/10503161?s=200&v=4" />
+  <img alt="Laravel" width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" />
+  <img alt="CodeIgniter" width="20" src="https://th.bing.com/th/id/OIP.RyzIFi-x57WhYZnh527L-wHaHa?rs=1&pid=ImgDetMain" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="20" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="20" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="20" alt="wordpress logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="20" alt="graphql logo"  />
+  <img alt="Bootstrap" width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" />
+  <img alt="jQuery" width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" />
+  <img alt="React" width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+  <img alt="Angular" width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" />
+  <img alt="Node.js" width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
+  <img alt=".NET" width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" />
+  <img alt="ReactiveUI" width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/reactiveui/reactiveui.png" />
+  <img alt="Prism" width="20" src="https://avatars1.githubusercontent.com/u/10503161?s=200&v=4" />
 </p>
 
 ---
@@ -109,6 +121,15 @@ I am open to **collaborations, freelance projects** and **discussions** about *J
 - ![Profile Views](https://komarev.com/ghpvc/?username=Theonlysmartboy&label=Profile%20views&color=0e75b6&style=flat)
 - [![Twitter](https://img.shields.io/twitter/follow/TheonlySmartBoy?label=Follow&style=social)](https://twitter.com/TheonlySmartBoy)
 - [![GitHub Followers](https://img.shields.io/github/followers/Theonlysmartboy?label=Followers&style=social)](https://github.com/Theonlysmartboy)
+-  <a href="https://www.linkedin.com/in/the-only-smart-boy/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"  />
+  </a>
+- <a href="https://stackoverflow.com/users/4983101/the-only-smart-boy" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="50" height="40" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://www.facebook.com/O2JOSE/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="40" alt="facebook logo"  />
+  </a>
 
 ---
 
