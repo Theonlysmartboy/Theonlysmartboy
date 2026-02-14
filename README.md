@@ -53,8 +53,8 @@ I am open to **collaborations, freelance projects** and **discussions** about *J
 
 ## 📈 GitHub Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Theonlysmartboy&theme=dracula&exclude_days=Sun)](https://git.io/streak-stats)
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Theonlysmartboy&theme=dracula&exclude_days=Sun)](https://git.io/streak-stats)
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Theonlysmartboy&theme=dracula" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Theonlysmartboy&theme=dracula" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Theonlysmartboy&theme=dracula" />
