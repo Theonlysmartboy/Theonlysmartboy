@@ -7,7 +7,7 @@ Commonly known as **The Only Smart Boy** for those who love long names — or si
 ## 👨‍💻 Senior Java & Laravel Developer | Full Stack Specialist | Clean Code Advocate
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#load-balancing-endpoints)">
     <img src="https://trophygh.kolioaris.xyz/?username=Theonlysmartboy&theme=dracula&hide_border=true&title=Followers,Stars,Commit,Repositories,PullRequest,Issues,Reviews,Organizations,MultiLanguage,Experience" alt="GitHub Profile Trophy" />
   </a>
 </p>
