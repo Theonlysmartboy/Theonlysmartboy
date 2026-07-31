@@ -12,6 +12,7 @@ Commonly known as **The Only Smart Boy** for those who love long names — or si
 <img src="https://img.shields.io/badge/Android-Java-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/VB.NET-WinForms-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MySQL-Database-lightblue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PHP-Expert-lightblue?style=for-the-badge"/>
 </p>
 
 With 10+ years of hands-on experience building scalable, high-performance applications, I specialize in **Java (Spring Boot)** and **Laravel (PHP)** for delivering robust backend solutions. I'm passionate about **clean architecture**, **RESTful APIs**, and optimizing systems for speed and reliability.
