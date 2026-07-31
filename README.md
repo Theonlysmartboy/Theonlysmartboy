@@ -7,10 +7,7 @@ Commonly known as **The Only Smart Boy** for those who love long names — or si
 ## 👨‍💻 Senior Java & Laravel Developer | Full Stack Specialist | Clean Code Advocate
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Theonlysmartboy&theme=dracula&no-frame=true&no-bg=true&margin-w=15"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Theonlysmartboy&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 With 10+ years of hands-on experience building scalable, high-performance applications, I specialize in **Java (Spring Boot)** and **Laravel (PHP)** for delivering robust backend solutions. I'm passionate about **clean architecture**, **RESTful APIs**, and optimizing systems for speed and reliability.
