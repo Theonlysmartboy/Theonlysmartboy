@@ -6,7 +6,13 @@ Commonly known as **The Only Smart Boy** for those who love long names — or si
 
 ## 👨‍💻 Senior Java & Laravel Developer | Full Stack Specialist | Clean Code Advocate
 
-[![An image of @theonlysmartboy's Holopin badges](https://holopin.me/theonlysmartboy)](https://holopin.io/@theonlysmartboy)
+<p align="center">
+<img src="https://img.shields.io/badge/Java-Expert-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Laravel-Developer-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Android-Java-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VB.NET-WinForms-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-Database-lightblue?style=for-the-badge"/>
+</p>
 
 With 10+ years of hands-on experience building scalable, high-performance applications, I specialize in **Java (Spring Boot)** and **Laravel (PHP)** for delivering robust backend solutions. I'm passionate about **clean architecture**, **RESTful APIs**, and optimizing systems for speed and reliability.
 
