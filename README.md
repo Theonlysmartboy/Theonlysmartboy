@@ -7,9 +7,10 @@ Commonly known as **The Only Smart Boy** for those who love long names — or si
 ## 👨‍💻 Senior Java & Laravel Developer | Full Stack Specialist | Clean Code Advocate
 
 <p align="center">
-  <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#load-balancing-endpoints)">
-    <img src="https://trophygh.kolioaris.xyz/?username=Theonlysmartboy&theme=dracula&hide_border=true&title=Followers,Stars,Commit,Repositories,PullRequest,Issues,Reviews,Organizations,MultiLanguage,Experience" alt="GitHub Profile Trophy" />
-  </a>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Theonlysmartboy&theme=dracula&no-frame=true&no-bg=true&margin-w=15"
+    alt="GitHub Trophies"
+  />
 </p>
 
 With 10+ years of hands-on experience building scalable, high-performance applications, I specialize in **Java (Spring Boot)** and **Laravel (PHP)** for delivering robust backend solutions. I'm passionate about **clean architecture**, **RESTful APIs**, and optimizing systems for speed and reliability.
